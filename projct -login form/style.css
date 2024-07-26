@@ -13,8 +13,8 @@ body{
 .parent{
     width: 900px;
     height: 500px;
-    background-color: #fff;
-    border: 1px solid lightgreen;
+    background-color: 1px solid rgb(245,245,245);
+    border: 1px solid gray;
     position: fixed;
     top: 50%;
     left: 50%;
@@ -70,7 +70,7 @@ body{
     width: 356px; 
     padding: 10px 5px; 
     border-radius: 3px;
-    border: 1px solid lightslategray;
+    border: 1px solid lightgray;
 }
 .parent .login form input[type="submit"]{
     width: 370px;
